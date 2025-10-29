@@ -1,0 +1,7 @@
+{
+  "name": "Whatsapp AI Response Assistant",
+  "description": "An AI-powered response assistant for small entrepreneurs to streamline customer communication on WhatsApp and Instagram. It suggests quick replies, helps manage appointments, and provides performance insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
